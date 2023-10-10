@@ -67,4 +67,4 @@ To get started, follow the steps below:
 ******* It is HIGHLY RECOMMENDED that you create some test playlists on your account first to get an idea of how they work/run to avoid any mishaps with personal playlists.
 This project is provided as-is and comes with no warranties or support. Please use it responsibly and ensure you have appropriate permissions to modify your Spotify playlists.
 
-**Happy organizing!!!**
+**Happy organizing!**

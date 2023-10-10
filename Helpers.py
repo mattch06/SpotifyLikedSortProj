@@ -38,7 +38,7 @@ def get_playlist_genres(client_id, client_secret, redirect_uri, scope, playlist_
                                                 redirect_uri=REDIRECT_URI,
                                                 scope=APP_SCOPE))
 
-    playlist_tracks = []
+    playlist_tracks = [] # empty list to store tracks in playlist
 
     playlist_genres = []
 
