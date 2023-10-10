@@ -40,7 +40,7 @@ def get_playlist_genres(client_id, client_secret, redirect_uri, scope, playlist_
 
     playlist_tracks = [] # empty list to store tracks in playlist
 
-    playlist_genres = []
+    playlist_genres = [] # empty list to store genres of artists in playlist
 
     results = sp.playlist_items(playlist_id)
 
